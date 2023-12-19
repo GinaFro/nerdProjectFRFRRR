@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+.sign-up {
+    float: center;
+    width: 25%;
+    height: 75vh;
+    color: white;
+}
+
+.sign-up
+
+input {
+    background-color: rgb(12,21,35);
+    border: 1px solid rgb(48,47,44);
+    color: white;
+}
+
+.sign-up
+
+select {
+    background-color: rgb(12,21,35);
+    width: 32%;
+    height: 4vh;
+    border: 1px solid rgb(48,47,44);
+    color: white;
+}
+
+.sign-up
+
+button {
+    width: 35%;
+    height: 5vh; 
+    background-image: linear-gradient(rgb(59,142,194), rgb(36,94,142));
+}
+
+button:hover {
+    background-image: linear-gradient(rgb(36,94,142) , rgb(59,142,194));
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+

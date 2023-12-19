@@ -1,0 +1,226 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+.header {
+    width: 100%;
+    height: 3vh;
+    background-color: rgb(21,36,57);
+    text-align: right;
+    
+}
+
+.nav-bar {
+    width: 70%;
+    height: 5vh;
+    border-radius: 15px;
+    background-color: rgb(32,54,88);
+    text-align: left;
+    border: 3px solid rgb(78,87,101);
+    margin: 0 auto;
+    font-size: xx-large;
+    position: relative;
+}
+
+
+.nav-bar
+a {
+    text-decoration: none;
+    color: rgb(165,185,198);
+    
+}
+
+.nav-bar
+a:hover {
+    color: white;
+    
+}
+
+.nav-bar
+
+li {
+    display: inline;
+    font-size: larger;
+}
+
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-items: flex-start;
+}
+
+.info {
+    margin: 0 auto;
+    width: 60%;
+    color: rgb(166,176,158);
+    font-size: x-large;
+}
+
+.info
+h2 {
+    color: rgb(229,190,92);
+}
+
+.quests {
+    width: 40%;
+    float: left;
+    color: #8998A6;
+    font-size: xx-large;
+    margin: 15vh;
+}   
+
+.quests
+h2 {
+    color: #F7C968;
+}
+
+.quest-bg {
+    width: 100%;
+    background-image: url("../Images/Game.html/Adventure/bg-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 608px; 
+}
+
+.quests-2 {
+    width: 40%;
+    float: right;
+    color: #8998A6;
+    font-size: xx-large;
+    margin: 15vh;
+}   
+
+.quests-2
+h2 {
+    color: #F7C968;
+}
+
+.quest-bg-2 {
+    width: 100%;
+    background-image: url("../Images/Game.html/Adventure/bg-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 608px; 
+}
+
+.adventure {
+    width: 100%;
+}
+
+.quests-3 {
+    width: 40%;
+    float: left;
+    color: #8998A6;
+    font-size: xx-large;
+    margin: 15vh;
+}   
+
+.quests-3
+h2 {
+    color: #F7C968;
+}
+
+.quest-bg-3 {
+    width: 100%;
+    background-image: url("../Images/Game.html/Adventure/bg-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 608px; 
+}
+
+.quests-4 {
+    width: 40%;
+    float: right;
+    color: #8998A6;
+    font-size: xx-large;
+    margin: 15vh;
+}   
+
+.quests-4
+h2 {
+    color: #F7C968;
+}
+
+.quest-bg-4 {
+    width: 100%;
+    background-image: url("../Images/Game.html/Adventure/bg-4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 608px; 
+}
+
+.info-bg {
+    width: 100%;
+    background-image: url("../Images/Game.html/Minigames/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 463px; 
+}
+.info-bg-2 {
+    width: 100%;
+    background-image: url("../Images/Game.html/Minigames/2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px; 
+}
+
+.info-2 {
+    width: 40%;
+    float: left;
+    color: #8998A6;
+    font-size: medium;
+    margin-left: 15vh;
+}
+
+.info-2 h2 {
+    color: #F7C968;
+}
+
+
+ul {
+    list-style: url("../Images/list-bullet.svg");
+}
+
+.info-bg-3 {
+    width: 100%;
+    background-image: url("../Images/Game.html/Minigames/3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px; 
+}
+
+.info-3 {
+    width: 30%;
+    float: right;
+    color: #8998A6;
+    font-size: medium;
+    margin-right: 15vh;
+}
+
+.info-3 h2 {
+    color: #F7C968;
+}
+
+.info-bg-4 {
+    width: 100%;
+    background-image: url("../Images/Game.html/Minigames/4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px; 
+}
+
+.info-4 {
+    width: 30%;
+    float: left;
+    color: #8998A6;
+    font-size: medium;
+    margin-left: 15vh;
+}
+
+.info-4 h2 {
+    color: #F7C968;
+}
+
